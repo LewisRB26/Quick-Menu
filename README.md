@@ -36,9 +36,7 @@ Quick menu v1.0.0
 		Toggle Focus…
 		-Do Not Disturb
 		-Sleep
-	
-	-Control Center… (enters Control Center)
-
+	-Control Center
 -About…
 
 Notes
