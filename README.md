@@ -1,6 +1,6 @@
 README
 
-Quick Menu is an iOS shortcut that allows a small, lightweight menu to be activated and used via Back Tap or Action Button.
+Quick Menu is an iOS shortcut that allows a small, lightweight menu to be activated and used via Back Tap or Action Button and is powered by the Shortcuts app.
 
 Quick Menu allows multiple features to be added to action button or back tap using features already baked into iOS instead of installing apps that take up a ton of resources that could be purposed better. 
 
@@ -29,16 +29,20 @@ Quick menu v1.0.0
 1. Torch
 1. Gaming Focus
 1. Toggles...
+	
 	2. Silent Mode
 	2. Rotation Lock
 	2. Dark/Light Mode
 	2. Toggle Focus...
+		
 		3. Do Not Disturb
 		3. Sleep
+	
 	2. Control Center...
+
 1. About...
 
-(Its in a numbered list because it clumps together when its not)
+(Its in a numbered list because it clumps together when its not). Also, every line symbolises how deep it is
 
 
 
