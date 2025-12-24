@@ -8,11 +8,11 @@ Quick Menu is also only 29 KB in size, making it run smoothly in RAM and taking 
 
 Compatibility
 
--Requires iOS 14+
--Requires iPhone 8 or newer
--Best experienced on iPhone 15 Pro on iOS 26.2 or above (action button)
--For Spotify shortcut to run, Spotify needs to be installed, but the shortcut is not required
--This is a iOS shortcut only, its not going to run as intended on macOS
+1. Requires iOS 14+
+2. Requires iPhone 8 or newer
+3. Best experienced on iPhone 15 Pro on iOS 26.2 or above (action button)
+4. For Spotify shortcut to run, Spotify needs to be installed, but the shortcut is not required
+5. This is a iOS shortcut only, its not going to run as intended on macOS
 
 Install
 
