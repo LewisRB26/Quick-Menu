@@ -24,20 +24,9 @@ Scroll down to the bottom and accept the shortcut
 What’s in Quick Menu?
 
 Quick menu v1.0.0
-Spotify
-Torch (toggle)
-Gaming Focus (toggle)
-Toggles…
-	Toggles…
-	Silent Mode
-	Rotation Lock
-	Dark/light mode
-	Toggle Focus…
-		Toggle Focus…
-		Do Not Disturb
-		Sleep
-	Control Center
-About…
+-Spotify
+-Torch
+
 
 Notes
 
