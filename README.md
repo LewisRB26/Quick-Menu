@@ -42,7 +42,7 @@ Quick menu v1.0.0
 
 1. About...
 
-(Its in a numbered list because it clumps together when its not). Also, every line symbolises how deep it is
+(Its in a numbered list because it clumps together when its not). Also, every line symbolises how deep it is in the menu.
 
 
 
