@@ -16,16 +16,32 @@ Compatibility
 
 Install
 
-Download from GitHub
-Export to iPhone (skip this step if you are downloading on iPhone)
-Add the shortcut to official apple Shortcuts app
-Scroll down to the bottom and accept the shortcut
+1. Download from GitHub
+2. Export to iPhone (skip this step if you are downloading on iPhone)
+3. Add the shortcut to official apple Shortcuts app
+4. Scroll down to the bottom and accept the shortcut
 
 What’s in Quick Menu?
 
 Quick menu v1.0.0
--Spotify
--Torch
+
+1. Spotify
+1. Torch
+1. Gaming Focus
+1. Toggles...
+	2. Silent Mode
+	2. Rotation Lock
+	2. Dark/Light Mode
+	2. Toggle Focus...
+		3. Do Not Disturb
+		3. Sleep
+	2. Control Center...
+1. About...
+
+(Its in a numbered list because it clumps together when its not)
+
+
+
 
 
 Notes
