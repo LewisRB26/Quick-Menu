@@ -23,6 +23,9 @@ Install
 
 What’s in Quick Menu?
 
+<img width="590" height="1278" alt="IMG_5891" src="https://github.com/user-attachments/assets/5451d9d6-9f68-4652-a37c-11824475b532" /> 
+What Quick Menu v1.0.0 looks like when running
+
 Quick menu v1.0.0
 
 1. Spotify
@@ -31,6 +34,7 @@ Quick menu v1.0.0
 1. Toggles...
 	
 	2. Silent Mode
+
 	2. Rotation Lock
 	2. Dark/Light Mode
 	2. Toggle Focus...
