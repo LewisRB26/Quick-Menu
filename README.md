@@ -28,9 +28,16 @@ What Quick Menu v1.0.0 looks like when running
 
 Quick menu v1.0.0
 
-1. Spotify
 1. Torch
 1. Gaming Focus
+1. Music...
+
+	2. Volume
+    2. Previous Song
+    2. Play/Pause
+    2. Next Song
+    2. Spotify
+
 1. Toggles...
 	
 	2. Silent Mode
@@ -55,6 +62,7 @@ Quick menu v1.0.0
 Notes
 
 -Quick Menu is highly customisable, any shortcut can be added or removed easily.
+
 -This is the 1st release of Quick Menu, make a comment on GitHub if you want anything added or if you have feedback.
 
 		
