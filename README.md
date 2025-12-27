@@ -26,7 +26,7 @@ What’s in Quick Menu?
 <img width="590" height="1278" alt="IMG_5891" src="https://github.com/user-attachments/assets/5451d9d6-9f68-4652-a37c-11824475b532" /> 
 What Quick Menu v1.0.0 looks like when running
 
-Quick menu v1.0.0
+Quick menu v1.1.0
 
 1. Torch
 1. Gaming Focus
