@@ -33,8 +33,8 @@ Quick menu v1.2.0
 1. Music...
 
 	2. Volume
-    2. Back 15 seconds
     2. Previous Song
+    2. Back 15 seconds
     2. Play/Pause
     3. Forward 15 seconds
     2. Next Song
