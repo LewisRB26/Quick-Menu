@@ -4,7 +4,7 @@ Quick Menu is an iOS shortcut that allows a small, lightweight menu to be activa
 
 Quick Menu allows multiple features to be added to action button or back tap using features already baked into iOS instead of installing apps that take up a ton of resources that could be purposed better. 
 
-Quick Menu is also only 29 KB in size, making it run smoothly in RAM and taking up basically no memory. This is partly because its completely offline and has no tracking services.
+Quick Menu is also only 31 KB in size, making it run smoothly in RAM and taking up basically no memory. This is partly because its completely offline and has no tracking services.
 
 Compatibility
 
@@ -26,15 +26,17 @@ What’s in Quick Menu?
 <img width="590" height="1278" alt="IMG_5891" src="https://github.com/user-attachments/assets/5451d9d6-9f68-4652-a37c-11824475b532" /> 
 What Quick Menu v1.0.0 looks like when running
 
-Quick menu v1.1.0
+Quick menu v1.2.0
 
 1. Torch
 1. Gaming Focus
 1. Music...
 
 	2. Volume
+    2. Back 15 seconds
     2. Previous Song
     2. Play/Pause
+    3. Forward 15 seconds
     2. Next Song
     2. Spotify
 
