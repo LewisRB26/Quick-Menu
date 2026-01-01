@@ -26,9 +26,9 @@ What’s in Quick Menu?
 
 <img width="590" height="1278" alt="Quick Menu v1 2 1" src="https://github.com/user-attachments/assets/a28dc1c2-6c09-4256-853f-5c392a13f544" />
 
-What Quick Menu v1.2.1 looks like when running
+What Quick Menu v1.3.0 looks like when running
 
-Quick menu v1.2.1
+Quick menu v1.3.0
 
 1. Torch
 1. Gaming Focus
@@ -48,9 +48,12 @@ Quick menu v1.2.1
 1. Toggles...
 	
 	2. Silent Mode
-
 	2. Rotation Lock
-	2. Dark/Light Mode
+	2. Display...
+
+    	3. Dark/Light Mode
+        3. Set Brightness
+           
 	2. Toggle Focus...
 		
 		3. Do Not Disturb
@@ -68,6 +71,6 @@ Notes
 
 -Quick Menu is highly customisable, any shortcut can be added or removed easily.
 
--This is the 4th release of Quick Menu, make a comment on GitHub if you want anything added or if you have feedback.
+-This is the 5th release of Quick Menu, make a comment on GitHub if you want anything added or if you have feedback.
 
 		
