@@ -24,9 +24,10 @@ Install
 
 What’s in Quick Menu?
 
-<img width="590" height="1278" alt="Quick Menu v1 2 1" src="https://github.com/user-attachments/assets/a28dc1c2-6c09-4256-853f-5c392a13f544" />
+<img width="590" height="1278" alt="Screenshot 2026-01-07 at 23 42 58" src="https://github.com/user-attachments/assets/74d409c9-da32-4046-bd5c-cc3e5c4e41e5" />
 
-What Quick Menu v1.3.0 looks like when running
+
+What Quick Menu v1.4.0 looks like when running
 
 Quick menu v1.4.0
 
