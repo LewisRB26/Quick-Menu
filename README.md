@@ -27,9 +27,9 @@ What’s in Quick Menu?
 <img width="590" height="1278" alt="Screenshot 2026-01-07 at 23 42 58" src="https://github.com/user-attachments/assets/74d409c9-da32-4046-bd5c-cc3e5c4e41e5" />
 
 
-What Quick Menu v1.4.0 looks like when running
+What Quick Menu v1.5.1 looks like when running
 
-Quick menu v1.4.0
+Quick menu v1.5.1
 
 1. Torch
 1. Gaming Focus
@@ -48,7 +48,12 @@ Quick menu v1.4.0
 
 1. Launchpad...
 
-	2. Scan QR code
+	2. Get Clipboard
+    2. Timer...
+
+       3. Set Timer
+       3. Cancel Timer
+
     2. Weather...
     2. Quick Note...
 
@@ -74,6 +79,6 @@ Notes
 
 -Quick Menu is highly customisable, any shortcut can be added or removed easily.
 
--This is the 6th release of Quick Menu, make a comment on GitHub if you want anything added or if you have feedback.
+-This is the 8th release of Quick Menu, make a comment on GitHub if you want anything added or if you have feedback.
 
 		
