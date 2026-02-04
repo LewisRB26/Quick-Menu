@@ -12,7 +12,7 @@ Quick Menu allows multiple features to be added to action button or back tap usi
 
 On the surface, Quick Menu is just a iOS Shortcut, but it is much more complex than that. I started v2 because i hit the architectural ceiling of v1 and my ideas (adding dynamic UI, scalable menus, future proof features) would require a new major version than incremental updates.
 
-Quick Menu is also only approx. 38KB in size, making it run smoothly iand taking up basically no memory. This is partly because its completely offline (apart from manual Updater) and has no background daemons with telemetry. I didn’t just stop with clunky UI for the point of tiny size; I made sure Quick Menu looks as legible and clean as possible, with features such as the Dynamic Toolbar (Capped at 1 line to not outweigh the top) and Launchpad, for features you might not need to always use, but are great to have, such as Get Clipboard and Weather (See the image down below).
+Quick Menu is also only approx. 38KB in size, making it run smoothly and taking up basically no memory. This is partly because its completely offline (apart from manual Updater) and has no background daemons with telemetry. I didn’t just stop with clunky UI for the point of tiny size; I made sure Quick Menu looks as legible and clean as possible, with features such as the Dynamic Toolbar (Capped at 1 line to not outweigh the top) and Launchpad, for features you might not need to always use, but are great to have, such as Get Clipboard and Weather (See the image down below).
 
 <img width="590" height="1278" alt="IMG_6497" src="https://github.com/user-attachments/assets/c39f6e1b-004e-4ac0-bfff-951ed7774856" />
 
@@ -25,7 +25,7 @@ There are permissions in Quick Menu (Location for Weather and On The Go features
 
 1. Requires iOS 17+
 
-2. designed and tested on iPhone 16
+2. designed and tested on modern iPhones 
 
 3. Could work on earlier iPhones/iOS versions, would not rely on it
 
