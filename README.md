@@ -49,6 +49,8 @@ Install
 
 (The previous images are great for reference)
 
+Quick Menu is structured as a multi-level tree here, and it currently has 40+ interractive actions with various uses.
+
 Quick Menu | [day/night emoji] [24hr time] | [battery state emoji] [battery %]
 
 1. Torch
