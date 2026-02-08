@@ -110,6 +110,12 @@ Quick Menu | [day/night emoji] [24hr time] | [battery state emoji] [battery %]
 	2. Permissions…
 	2. About…
 
+ 
+ 
+<img width="587" height="607" alt="IMG_6502" src="https://github.com/user-attachments/assets/99a11db0-80f1-4224-a25a-b5a5f9748621" />
+
+(above image) ASCII Magic 8 Ball 
+
 
 **Notes & Limitations**
 
