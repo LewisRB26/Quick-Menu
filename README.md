@@ -8,7 +8,7 @@ Quick Menu allows multiple features to be added to action button or back tap usi
 
 <img width="590" height="1278" alt="IMG_6496" src="https://github.com/user-attachments/assets/e04e277b-1c40-4d6b-b346-6a572909ade2" />
 
-(above) **Quick Menu v2.0.0 Launch screen**
+(above) **Quick Menu v2.0.1 Launch screen**
 
 On the surface, Quick Menu is just a iOS Shortcut, but it is much more complex than that. I started v2 because i hit the architectural ceiling of v1 and my ideas (adding dynamic UI, scalable menus, future proof features) would require a new major version than incremental updates.
 
@@ -119,4 +119,4 @@ Quick Menu | [day/night emoji] [24hr time] | [battery state emoji] [battery %]
 
 -Quick Menu is highly customisable, any shortcut can be added or removed easily. 
 
-This is the 1st release of Quick Menu v2, make a comment on GitHub if you want anything added or if you have feedback.
+This is the 2st release of Quick Menu v2, make a comment on GitHub if you want anything added or if you have feedback.
