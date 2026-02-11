@@ -8,7 +8,7 @@ Quick Menu allows multiple features to be added to action button or back tap usi
 
 <img width="590" height="1278" alt="IMG_6496" src="https://github.com/user-attachments/assets/e04e277b-1c40-4d6b-b346-6a572909ade2" />
 
-(above) **Quick Menu v2.0.1 Launch screen**
+(above) **Quick Menu v2.1.0 Launch screen**
 
 On the surface, Quick Menu is just a iOS Shortcut, but it is much more complex than that. I started v2 because i hit the architectural ceiling of v1 and my ideas (adding dynamic UI, scalable menus, future proof features) would require a new major version than incremental updates.
 
@@ -35,7 +35,7 @@ There are permissions in Quick Menu (Location for Weather and On The Go features
 
 6. This is a iOS shortcut only, its not going to run as intended on macOS
 
-Install
+**Install**
 
 1. Click iCloud link in GitHub
 
@@ -49,7 +49,7 @@ Install
 
 (The previous images are great for reference)
 
-Quick Menu is structured as a multi-level tree here, and it currently has 40+ interractive actions with various uses.
+Quick Menu is structured as a multi-level tree here, and it currently has **40+** interractive actions with various uses.
 
 Quick Menu | [day/night emoji] [24hr time] | [battery state emoji] [battery %]
 
@@ -92,6 +92,8 @@ Quick Menu | [day/night emoji] [24hr time] | [battery state emoji] [battery %]
 		3. Open Weather…
 	2. Timer
     
+		3. Resume Timer
+     	3. Pause Timer
 		3. Set Timer…
 		3. Cancel Timer
 	2. On the Go…
@@ -120,8 +122,8 @@ Quick Menu | [day/night emoji] [24hr time] | [battery state emoji] [battery %]
 
 -Known issue of Quick Menu getting stuck and not showing after closing the device with it active. Fix with running a different shortcut with a menu or restart the device to clear the session.
 
--If you found Quick Menu to be a a great tool, or found it nice to use at 2am, leave me a star; it would be greatly appreciated.
+-If you found Quick Menu to be a a great tool, or found it nice to use at 2am, leave me a star; it is always appreciated.
 
 -Quick Menu is highly customisable, any shortcut can be added or removed easily. 
 
-This is the 2st release of Quick Menu v2, make a comment on GitHub if you want anything added or if you have feedback.
+This is the 3rd release of Quick Menu v2, make a comment on GitHub if you want anything added or if you have feedback.
