@@ -8,7 +8,7 @@ Quick Menu allows multiple features to be added to action button or back tap usi
 
 <img width="590" height="1278" alt="IMG_6496" src="https://github.com/user-attachments/assets/e04e277b-1c40-4d6b-b346-6a572909ade2" />
 
-(above) **Quick Menu v2.2.0 Launch screen**
+(above) **Quick Menu v2.2.1 Launch screen**
 
 On the surface, Quick Menu is just a iOS Shortcut, but it is much more complex than that. I started v2 because i hit the architectural ceiling of v1 and my ideas (adding dynamic UI, scalable menus, future proof features) would require a new major version than incremental updates.
 
@@ -21,7 +21,7 @@ Quick Menu is also only approx. 42KB in size, making it run smoothly and taking 
 
 There are permissions in Quick Menu (Location for Weather and On The Go features, Mic for Shazam Music Recognition) but these are completely optional and only in Launchpad, never touching the core to maintain the original aims and goals of Quick Menu; to be simple and to do its job. The only online feature of Quick Menu is the Updater, which only fetches version.json from GitHub, tells you if there is a update based on the version and if there is, it asks you if you want to open the RoutineHub download link and if not, you can quit Quick Menu. 
 
-**Quick Menu is also on RoutineHub!** _.In case you are interested:._ https://routinehub.co/shortcut/24915/ (Note: _.Please.__ be careful of popups; there are a lot)
+**Quick Menu is also on RoutineHub!** _In case you are interested:_ https://routinehub.co/shortcut/24915/ (Note: _Please_ be careful of popups; there are a lot)
 
 **Compatibility**
 
@@ -128,4 +128,4 @@ Quick Menu | [day/night emoji] [24hr time] | [battery state emoji] [battery %]
 
 -Quick Menu is highly customisable, any shortcut can be added or removed easily. 
 
-This is the 4th release of Quick Menu v2, make a comment on GitHub if you want anything added or if you have feedback.
+This is the 5th release of Quick Menu v2, make a comment on GitHub if you want anything added or if you have feedback.
