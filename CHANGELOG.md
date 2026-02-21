@@ -1,20 +1,30 @@
-Changelog Quick Menu v2.2.0
+Changelog Quick Menu v2.2.1
 
-v2.2.0 (Latest Release 16/02/26)
-•Revamped Updater from 1 link to large check
+v2.2.1 (Latest Release 21/02/26)
 
-•Now has GitHub as a backend for Updater
+-Changed some parts of “About…”
 
-•Internet Connection can be checked by Updater by testing if there is a IP address
+-Edited focus function
 
-•Changed Display emoji to firework temporarily because its my birthday 17/02/26
+-Edited Volume dynamic toolbar 
 
-•Fixed some emoji spacing
+-Edited Volume emoji
 
-•Changed icon of Quick Menu from macOS “cmd” symbol to 3 sliders
+-Moved Focus dynamic toolbar to main Toggles top bar
 
-•Made “About…” more modern with suitable emojis and some formatting + included GitHub link
+-Removed Focus menu, now button disables focus if focus is enabled or enables focus if none is on
 
-•212 overall actions
+-Added 1 repeat into the Toggles menu in case if you want to change a focus mode to another, or wanna adjust your brightness again
 
-•42KB
+-Added a new Updater dialog if your version is newer than public version
+
+-fixed a bug where Updater followed standard decimal logic instead of semantic logic
+
+-Updater also now sends a notification saying “checking for updates…”
+
+-Added Changelog view if there is a new update in Updater
+
+-265 overall actions
+
+-46KB
+
