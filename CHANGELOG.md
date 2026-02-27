@@ -1,30 +1,19 @@
-Changelog Quick Menu v2.2.1
+Changelog Quick Menu v2.3.0
 
-v2.2.1 (Latest Release 21/02/26)
+v2.3.0 (Latest Release 27/02/26)
+-0 New Features!
 
--Changed some parts of “About…”
+-Moved Brightness dynamic toolbar to Toggles main menu
+-Fully updated Updater to Semantic Tri-Index system 
 
--Edited focus function
+-Fixed typos/whitespace around the system
+-Updated prompts of Torch, Dice, Brightness, Volume, AirPlay and Focus
 
--Edited Volume dynamic toolbar 
+-Brightness is now rounded to to nearest thousandth everywhere
+-Added error if there is no internet connection upon clicking “Where Am I?”
 
--Edited Volume emoji
+-Added iCloud link for direct reinstallment of Quick Menu if Updater is broken and it thinks you are on a newer version than exists
+-Added “🌐❌” for Launchpad Dynamic Toolbar if no internet is detected 
 
--Moved Focus dynamic toolbar to main Toggles top bar
-
--Removed Focus menu, now button disables focus if focus is enabled or enables focus if none is on
-
--Added 1 repeat into the Toggles menu in case if you want to change a focus mode to another, or wanna adjust your brightness again
-
--Added a new Updater dialog if your version is newer than public version
-
--fixed a bug where Updater followed standard decimal logic instead of semantic logic
-
--Updater also now sends a notification saying “checking for updates…”
-
--Added Changelog view if there is a new update in Updater
-
--265 overall actions
-
--46KB
-
+-279 overall actions
+-47KB
