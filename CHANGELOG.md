@@ -1,15 +1,16 @@
-Changelog Quick Menu v2.3.0
+Changelog Quick Menu v2.4.0
 
-v2.3.0 (Latest Release 27/02/26)
+v2.4.0 (Latest Release 05/03/26)  
 
--0 New Features!  
--Moved Brightness dynamic toolbar to Toggles main menu  
--Fully updated Updater to Semantic Tri-Index system  
--Fixed typos/whitespace around the system  
--Updated prompts of Torch, Dice, Brightness, Volume, AirPlay and Focus  
--Brightness is now rounded to to nearest thousandth everywhere  
--Added error if there is no internet connection upon clicking “Where Am I?”  
--Added iCloud link for direct reinstallment of Quick Menu if Updater is broken and it thinks you are on a newer version than exists  
--Added “🌐❌” for Launchpad Dynamic Toolbar if no internet is detected  
--279 overall actions  
--47KB
+-𝐶ℎ𝑎𝑛𝑔𝑒𝑑 𝑎 𝑙𝑜𝑡 𝑜𝑓 𝑓𝑜𝑛𝑡𝑠 𝑓𝑟𝑜𝑚 𝑏𝑎𝑠𝑖𝑐 𝑠𝑎𝑛𝑠 𝑠𝑒𝑟𝑖𝑓 𝑡𝑜 𝑎 𝑖𝑡𝑎𝑙𝑖𝑐𝑠 𝑠𝑒𝑟𝑖𝑓 𝑓𝑜𝑛𝑡  
+-Removed ellipsis (…) from the home menu as everything there had ellipsis before and clutter is bad. Ellipsis will continue to exist in all submenus.  
+-Removed the Torch brightness slider  
+-Added Network submenu under Toggles with WiFi toggle, Bluetooth toggle and Celluar toggle  
+-Removed “Check internet connection upon entry of Launchpad” and changed the location of that to the new Network tab  
+-Removed “On The Go…” submenu in Launchpad. Shazam is now in “Media…” and “Scan QR Code” and “Where Am I” are now standalone options in Launchpad   
+-Removed some bloat  
+-Zombie runs have been made significantly less likely after closing the iPhone whilst QM is still running  
+-Fixed 2 bugs in Updater on version mismatch screen where link didn’t fully render and LocalVersion wasn’t shown  
+-Added a dictionary at the top of QM, will be slowly integrated into the main QM to replace scattered textboxes  
+-283 Actions   
+-48KB
