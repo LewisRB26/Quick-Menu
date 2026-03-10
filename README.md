@@ -5,9 +5,9 @@ Quick Menu is an iOS shortcut that activates a small, dynamic and lightweight me
 Quick Menu allows multiple features to be added to action button or back tap using features already baked into iOS, with a nice dynamic UI, instead of installing apps that take up a ton of resources that could be purposed better. 
 
 **Why v2?**  
-<img width="590" height="1278" alt="IMG_6577" src="https://github.com/user-attachments/assets/4177f624-8285-4a5b-8d4f-17edecbc7fc7" />
+<img width="590" height="1278" alt="IMG_6643" src="https://github.com/user-attachments/assets/1b0b0a18-7a7a-4343-bab4-b3ab15e14187" />
 
-(above) **Quick Menu v2.4.0 Launch screen**
+(above) **Quick Menu v2.5.0 Launch screen**
 
 On the surface, Quick Menu is just a iOS Shortcut, but it is much more complex than that. I started v2 because i hit the architectural ceiling of v1 and my ideas (adding dynamic UI, scalable menus, future proof features) would require a new major version than incremental updates.
 
