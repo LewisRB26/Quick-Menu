@@ -1,27 +1,11 @@
-Changelog Quick Menu v2.5.0
+Changelog Quick Menu v2.5.2  
 
-v2.5.0 (Latest Release 10/03/26)  
+v2.5.2 (Latest Release 21/03/26)  
 
-New  
-• Added Plug n Play support (requires Plug n Play v1.1.0+)  
-• Plug n Play added to home screen menu  
-• Added Discord server invite  
-
-Changes  
-• Home screen now has 6 options:  
-  Torch  
-  Media  
-  Toggles  
-  Launchpad  
-  Plug n Play  
-  Settings  
-
-Fixes  
-• Fixed zombie state on Shazam  
-
-Utilities  
-• Added “Restart Network” in Network tab  
+-Tweaked some internal features  
+-Fixed Plug n Play bug where clicking the menu option without it installed would not return a link, but a error  
+-Preparimg for bigger changes in v2.6.0  
 
 Stats  
-• 301 actions  
+• 307 actions  
 • 49 KB  
