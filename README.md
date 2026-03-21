@@ -7,7 +7,7 @@ Quick Menu allows multiple features to be added to action button or back tap usi
 **Why v2?**  
 <img width="590" height="1278" alt="IMG_6643" src="https://github.com/user-attachments/assets/1b0b0a18-7a7a-4343-bab4-b3ab15e14187" />
 
-(above) **Quick Menu v2.5.1 Launch screen**
+(above) **Quick Menu v2.5.2 Launch screen**
 
 On the surface, Quick Menu is just a iOS Shortcut, but it is much more complex than that. I started v2 because i hit the architectural ceiling of v1 and my ideas (adding dynamic UI, scalable menus, future proof features) would require a new major version than incremental updates.
 
@@ -119,4 +119,4 @@ Settings…
 
 -Quick Menu is highly customisable, any shortcut can be added or removed easily. 
 
-This is the 7th release of Quick Menu v2, make a comment on GitHub if you want anything added or if you have feedback.
+This is the 12th release of Quick Menu v2, make a comment on GitHub if you want anything added or if you have feedback.
