@@ -5,15 +5,16 @@ Quick Menu is an iOS shortcut that activates a small, dynamic and lightweight me
 Quick Menu allows multiple features to be added to action button or back tap using features already baked into iOS, with a nice dynamic UI, instead of installing apps that take up a ton of resources that could be purposed better. 
 
 **Why v2?**  
-<img width="590" height="1278" alt="IMG_6643" src="https://github.com/user-attachments/assets/1b0b0a18-7a7a-4343-bab4-b3ab15e14187" />
+<img width="590" height="1278" alt="IMG_7159" src="https://github.com/user-attachments/assets/59870503-a4b2-42aa-8fa3-999337729e6d" />
 
-(above) **Quick Menu v2.5.2 Launch screen**
+
+(above) **Quick Menu v2.6.0 Launch screen**
 
 On the surface, Quick Menu is just a iOS Shortcut, but it is much more complex than that. I started v2 because i hit the architectural ceiling of v1 and my ideas (adding dynamic UI, scalable menus, future proof features) would require a new major version than incremental updates.
 
 Quick Menu is also only approx. 48KB in size, making it run smoothly and taking up basically no memory. This is partly because its completely offline (apart from manual Updater) and has no background daemons with telemetry. I didn’t just stop with clunky UI for the point of tiny size; I made sure Quick Menu looks as legible and clean as possible, with features such as the Dynamic Toolbar (Capped at 1 line to not outweigh the top) and Launchpad, for features you might not need to always use, but are great to have, such as Get Clipboard and Weather (See the image down below).
 
-<img width="590" height="1278" alt="IMG_6578" src="https://github.com/user-attachments/assets/755e288f-0a54-499d-ae9c-94641f3cbcf5" />
+<img width="590" height="1278" alt="IMG_7160" src="https://github.com/user-attachments/assets/95577458-df9b-4f9e-9150-398e021a00d6" />
 
 (above) **Quick Menu's Launchpad**
 
@@ -24,27 +25,19 @@ There are permissions in Quick Menu (Location for Weather and On The Go features
 
 **Compatibility**
 
-1. Requires iOS 17+
-
+1. Requires iOS 17+  
 2. designed and tested on modern iPhones 
-
-3. Could work on earlier iPhones/iOS versions, would not rely on it
-
-4. Does not run on iPhone X/iOS 16
-
-5. Best experienced with Action Button (iPhone 15 Pro line)
-
-6. This is a iOS shortcut only, its not going to run as intended on macOS
+3. Could work on earlier iPhones/iOS versions, would not rely on it  
+4. Does not run on iPhone X/iOS 16  
+5. Best experienced with Action Button (iPhone 15 Pro line)  
+6. This is a iOS shortcut only, its not going to run as intended on macOS  
 
 **Install**
 
-1. Click iCloud link in GitHub
-
-2. Export to iPhone (skip this step if you are downloading on iPhone)
-
-3. Add the shortcut to official apple Shortcuts app
-
-4. Scroll down to the bottom and accept the shortcut
+1. Click iCloud link in GitHub  
+2. Export to iPhone (skip this step if you are downloading on iPhone)  
+3. Add the shortcut to official apple Shortcuts app  
+4. Scroll down to the bottom and accept the shortcut  
 
 **What’s inside Quick Menu?**
 
@@ -105,7 +98,8 @@ Settings…
 	About…  
 
 
-<img width="587" height="607" alt="IMG_6502" src="https://github.com/user-attachments/assets/4b99a23e-689f-493f-848f-1b4e4bb4c0dd" />
+![IMG_7158](https://github.com/user-attachments/assets/ad2851cb-f62b-458e-9d59-fba5ff29e44c)
+
 
 
 (above image) ASCII Magic 8 Ball 
@@ -119,4 +113,4 @@ Settings…
 
 -Quick Menu is highly customisable, any shortcut can be added or removed easily. 
 
-This is the 12th release of Quick Menu v2, make a comment on GitHub if you want anything added or if you have feedback.
+This is the 13th release of Quick Menu v2, make a comment on GitHub if you want anything added or if you have feedback.
