@@ -1,18 +1,12 @@
-**Changelog Quick Menu v2.6.0**  
+**Changelog Quick Menu v2.6.1**  
 
-v2.6.0 (Latest Release 24/03/26)  
-**The update to kill confusion.**  
+v2.6.1 (Latest Release 31/03/26)  
 
--Moved Settings from the bottom of Launch menu to bottom of Launchpad  
--Grouped together “Get Clipboard”, “Scan QR Code” and “Quick Note” into “Quick Utilities” at the top of Launchpad  
--Added “↗“ at the start of any button that sends you somewhere external  
--Added “⪼” for any button that launches a submenu  
--Erased ellipsis spam, ellipsis now reserved for smart features, such as Updater  
--Restored balance to the launch screen  
--Lightened “Get Clipboard”  
--Torch brightness configuration added, runs on install  
--Magic 8 Ball has been completely revamped  
+-Fixed bug in “Copy to Clipboard” with Shazam; would previously brick Quick Menu fixable only by restarting  
+-Updated the symbols in Weather  
+-Adapted day/night emoji for Daylight Savings Time  
+-Updated the Updater typeface to match the rest of Quick Menu  
 
 **Stats**  
--307 overall actions  
+-306 overall actions  
 -50KB 
