@@ -10,3 +10,5 @@ v2.6.1 (Latest Release 31/03/26)
 **Stats**  
 -306 overall actions  
 -50KB 
+
+**Note: Quick Menu v2.7.0 is gonna drop soon, with at least 4 more features!**
