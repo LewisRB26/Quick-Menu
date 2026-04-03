@@ -1,14 +1,11 @@
 **Changelog Quick Menu v2.6.1**  
 
-v2.6.1 (Latest Release 31/03/26)  
+v2.7.0 (latest Release 03/04/26)  
 
--Fixed bug in “Copy to Clipboard” with Shazam; would previously brick Quick Menu fixable only by restarting  
--Updated the symbols in Weather  
--Adapted day/night emoji for Daylight Savings Time  
--Updated the Updater typeface to match the rest of Quick Menu  
+-Added “Advanced” tab into Network, contains Field Test and a guide  
+-Added “Open Existing Note” to Quick Utilities in Launchpad  
+-You can now press buttons infinite times in Playback control  
 
 **Stats**  
--306 overall actions  
+-320 actions  
 -50KB 
-
-**Note: Quick Menu v2.7.0 is gonna drop soon, with at least 4 more features!**
