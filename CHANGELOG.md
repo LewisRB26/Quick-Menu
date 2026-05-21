@@ -1,16 +1,25 @@
-**Changelog Quick Menu v2.6.1**  
+📋 𝗖𝗵𝗮𝗻𝗴𝗲𝗹𝗼𝗴 v3.0.0
 
-v2.7.1 (latest Release 19/04/26)  
+𝗡𝗲𝘄 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:
+• Configurations are possible now
+• 2 new files are added for long-term memory (𝚚𝚖_𝚌𝚘𝚛𝚎 and 𝚚𝚖_𝚌𝚘𝚗𝚏𝚒𝚐)
+• Fonts on menu buttons have been changed to Unicode Sans Serif, leaving the old Unicode Serif Italics style
+• The “📲” emoji has been changed to “” on start menu.
+• Quick setup, as Quick Menu now requires some extra features that should be done in a one time setup
+• “𝚃𝚘𝚐𝚐𝚕𝚎𝚜” has been renamed to “𝙲𝚘𝚗𝚝𝚛𝚘𝚕𝚜” because nowadays it has more non-toggles than toggles.
 
--Updated focus prompt text  
--Updated Magic 8 Ball prompt text  
--Updated Weather title + Dynamic Toolbar  
--Links now run from GitHub, not inside the shortcut for reliability  
--Resynced the time for the day/night emoji  
--More parts of texts have been returned to run on dictionary  
+𝗖𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗮𝘁𝗶𝗼𝗻 𝗢𝗽𝘁𝗶𝗼𝗻𝘀:
+• 𝚝𝚘𝚛𝚌𝚑𝙲𝚘𝚗𝚏𝚒𝚐: allows you to customise the brightness of torch when torch is turned on (off by default)
+• 𝚗𝚞𝚖𝙿𝚊𝚍: Swaps sliders for numpads (brought back from v1.5.1), (off by default)
+• 𝚊𝚙𝚙𝚕𝚎𝙼𝚞𝚜𝚒𝚌: Changes Spotify to Apple Music in the Media area (off by default)
 
-**Stats**  
--324 Actions  
--52KB  
+𝗦𝗲𝘁𝘁𝗶𝗻𝗴𝘀 𝗨𝗽𝗱𝗮𝘁𝗲𝘀:
+• New menu added: QM Configs
+• QM Configs features: View Configs, Edit Configs, Reset Settings and Factory Reset
+• Reset Settings just deletes the 𝚚𝚖_𝚌𝚘𝚗𝚏𝚒𝚐𝚜 file
+• Factory Reset deletes all files, requiring setup again
+• Rollback is significantly better, if you ever need it 
 
-Note: This is going to be one of the last, not EoL, updates of the v2.x line as v3.0.0 is being worked on and expected to release in June.
+𝗦𝘁𝗮𝘁𝘀:
+59KB 
+431 Actions
