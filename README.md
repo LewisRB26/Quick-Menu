@@ -1,116 +1,71 @@
-**Quick Menu: A Dynamic Action Button**
+## **Quick Menu: A Dynamic Action Button**
 
-Quick Menu is an iOS shortcut that activates a small, dynamic and lightweight menu to be used via Action Button (highly recommended) or Back Tap on an older device.
+Quick Menu is a persistent, lightweight utility hub activated via Action Button or Back Tap. Most shortcuts use popups for extra information; not Quick Menu because it uses Dynamic Toolbars at the top of menus to convey information that would otherwise require popups, unobtrusively.
 
-Quick Menu allows multiple features to be added to action button or back tap using features already baked into iOS, with a nice dynamic UI, instead of installing apps that take up a ton of resources that could be purposed better. 
+**Quick Menu has many features; some examples of features would be:**  
+• Weather Forecast  
+• Many System controls (e.g Brightness, Orientation Lock, Focuses)  
+• Where Am I?  
+• Updater (Fetches infomation from GitHub and compares infomation)  
+• Media Panel (Contains Playback controls, Spotify Launcher, AirPlay and Volume slider)  
+• [**Plug n Play**](https://routinehub.co/shortcut/25026/ ) support  
+• And **50+** more features, neatly in their own menus!  
 
-**Why v2?**  
-<img width="590" height="1278" alt="IMG_7159" src="https://github.com/user-attachments/assets/59870503-a4b2-42aa-8fa3-999337729e6d" />
+![Quick Menu x3](https://github.com/LewisRB26/Quick-Menu/releases/download/v3-beta-1/QM.v3.0.0.Light.png)
 
+(**Left:** ASCII Magic 8 Ball | **Middle:** Quick Menu home page | **Right:** Controls submenu)
 
-(above) **Quick Menu v2.7.0 Launch screen**
+### Dynamic Toolbars; How do they work?
 
-On the surface, Quick Menu is just a iOS Shortcut, but it is much more complex than that. I started v2 because i hit the architectural ceiling of v1 and my ideas (adding dynamic UI, scalable menus, future proof features) would require a new major version than incremental updates.
+Instead of popups in QM, Dynamic Toolbars are used, down below are some examples:
 
-Quick Menu is also only approx. 48KB in size, making it run smoothly and taking up basically no memory. This is partly because its completely offline (apart from manual Updater) and has no background daemons with telemetry. I didn’t just stop with clunky UI for the point of tiny size; I made sure Quick Menu looks as legible and clean as possible, with features such as the Dynamic Toolbar (Capped at 1 line to not outweigh the top) and Launchpad, for features you might not need to always use, but are great to have, such as Get Clipboard and Weather (See the image down below).
+![Launch](https://github.com/LewisRB26/Quick-Menu/releases/download/v3-beta-1/QM.dynamic.toolbar.annotation.png)
 
-<img width="590" height="1278" alt="IMG_7160" src="https://github.com/user-attachments/assets/95577458-df9b-4f9e-9150-398e021a00d6" />
+(**Above:** Dynamic Toolbar for Home Screen, annotated)
 
-(above) **Quick Menu's Launchpad**
+![Controls](https://github.com/LewisRB26/Quick-Menu/releases/download/v3-beta-1/controls.dynamic.toolbar.annotation.png)
 
+(**Above:** Dynamic Toolbar for Control submenu, annotated)
 
-There are permissions in Quick Menu (Location for Weather and On The Go features, Mic for Shazam Music Recognition) but these are completely optional and only in Launchpad, never touching the core to maintain the original aims and goals of Quick Menu; to be simple and to do its job. The only online feature of Quick Menu is the Updater, which only fetches version.json from GitHub, tells you if there is a update based on the version and if there is, it asks you if you want to open the RoutineHub download link and if not, you can quit Quick Menu. 
+#### Why are they used?
+
+So have you ever used a shortcut, its a really cool shortcut lets say, and you are really hyped about using it, but then you are flooded with tons of popups, like you are trying to browse the web on Internet Explorer 2.1? Yeah, it sucks and blocks your flow. Dynamic Toolbars solve that issue by putting non-essential information up at the top of the screen, where you can glance at any time.
+
+***
+
+### Day-to-day usage
+ 
+Quick Menu has been designed in a way that it can be used one-handed or when you don't want to think at 2am, with features such as easy-to-read menus with emojis, sliders and toggles. With all these QoL features you would expect it to feel heavy, right? Not at all, Quick Menu has a launchtime of only 200-300ms (1000ms = 1 second) and feels fluid throughout, even with heavier features in Launchpad, but this keeps the core experience instant and fulfilling for any toggles or media.
+
+***
+
+### System & Controls
+
+Quick Menu includes a configuration system that lets you customise how QM behaves. For example, if Apple Music is your default instead of Spotify, you can change the media setting in Settings > QM Configs so media actions open Apple Music instead. You can also switch interaction styles — such as enabling Numpads instead of sliders, letting you enter precise values instead of dragging.
+
+![system controls](https://github.com/LewisRB26/Quick-Menu/releases/download/v3-beta-1/QM.settings.demo.png)
+
+(**Left:** QM Configs Menu | **Middle:** QM Configs Viewer | **Right:** Updater: Update Available) 
+
+Quick Menu also features one of the most advanced Updaters in a shortcut; It has the ability to roll back, tell you if you are up to date, or tell you there is a update available, and from there you can even view the newest changelog, inside Quick Menu itself! Everything runs natively inside QM using a simple JSON-based system, with no external helper shortcuts required. Updater also respects your privacy, only running when prompted with the Updater button.
 
 **Quick Menu is also on RoutineHub!** _In case you are interested:_ https://routinehub.co/shortcut/24915/ (Note: _Please_ be careful of popups; there are a lot)
 
-**Compatibility**
+##### 🎉 Yooo thank you to everyone for helping Quick Menu reach 1000 downloads, it means a lot!
 
-1. Requires iOS 17+  
-2. designed and tested on modern iPhones 
-3. Could work on earlier iPhones/iOS versions, would not rely on it  
-4. Does not run on iPhone X/iOS 16  
-5. Best experienced with Action Button (iPhone 15 Pro line)  
-6. This is a iOS shortcut only, its not going to run as intended on macOS  
+***
 
-**Install**
+### **Compatability**  
+• iOS 26 Recommended (Cannot run on iOS 16)  
+• iPhone Xs or newer (Back Tap)  
+• iPhone 15 Pro recommended (Action Button)  
+• Not going to run (as intended) on macOS 
 
-1. Click iCloud link in GitHub  
-2. Export to iPhone (skip this step if you are downloading on iPhone)  
-3. Add the shortcut to official apple Shortcuts app  
-4. Scroll down to the bottom and accept the shortcut  
+If you want Quick Menu on **any** iPhone capable of Back Tap (Or _really_ hate permissions), try **v1.5.1**: [Quick Menu v1.5.1](https://www.icloud.com/shortcuts/abba695861644bc5b03b0f4c5ab927c3 )
 
-**What’s inside Quick Menu?**
+**Quick Menu v1.5.1 requires:**  
+• iPhone 8 (Back Tap)  
+• iOS 14.5+
 
-(The previous images are great for reference)
+**RoutineHub Link:** [Quick Menu on RoutineHub](https://github.com/LewisRB26/Quick-Menu)
 
-Quick Menu is structured as a multi-level tree here, and it currently has **40+** interractive actions with various uses.
-
-**Note: the tree is a bit broken right now, will fix**
-
-Quick Menu | [day/night emoji] [24hr time] | [battery state emoji] [battery %]
-
-Torch  
-Media…  
-   
-   Volume  
-   Playback…  
-   		Previous Song  
-		Back 15 seconds  
-		Play/Pause  
-		Forwards 15 seconds  
-		Next Song  
-	Spotify…  
-	Shazam...  
-	AirPlay…  
-
-Toggles…  
-   Silent Mode  
-   Rotation Lock  
-   Toggle Focus…  
-   Display…  
-   		Dark/Light Mode  
-		Set Brightness  
-	Network...  
-		Toggle WiFi  
-		Toggle Celluar  
-		Toggle Bluetooth  
-	Control Center…  
-
-Launchpad…  
-   Get Clipboard  
-   Quick Note  
-   QR Code Scanner  
-   Where Am I?  
-   Weather...  
-   		Get Weather Forecast…  
-		Open Weather  
-	Timer...  
-    	Resume Timer  
-     	Pause Timer  
-		Set Timer…  
-		Cancel Timer  
-	Games…  
-    	Magic 8 Ball  
-		Dice…  
-Settings…  
-	Updater…  
-	Permissions…  
-	About…  
-
-
-![IMG_7158](https://github.com/user-attachments/assets/ad2851cb-f62b-458e-9d59-fba5ff29e44c)
-
-
-
-(above image) ASCII Magic 8 Ball 
-
-
-**Notes & Limitations**
-
--(rare) Known issue of Quick Menu getting stuck and not showing after closing the device with it active. Fix with running a different shortcut with a menu or restart the device to clear the session.
-
--If you found Quick Menu to be a a great tool, or found it nice to use at 2am, leave me a star; it is always appreciated.
-
--Quick Menu is highly customisable, any shortcut can be added or removed easily. 
-
-This is the 15th release of Quick Menu v2, make a comment on GitHub if you want anything added or if you have feedback.
