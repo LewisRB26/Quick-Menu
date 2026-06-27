@@ -10,4 +10,5 @@
 ⮑ Brightness slider bug is unsolvable, but now understood and documented with real error handling.  
 
 𝗦𝘁𝗮𝘁𝘀:  
-72KB  
+• 72KB  
+• 492 Actions
