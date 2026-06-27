@@ -1,14 +1,13 @@
-📋 𝗖𝗵𝗮𝗻𝗴𝗲𝗹𝗼𝗴 v3.0.2  
+📋 𝗖𝗵𝗮𝗻𝗴𝗲𝗹𝗼𝗴 v3.1.0  
 
 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 𝗖𝗵𝗮𝗻𝗴𝗲𝘀:  
-• Changed default to NumPad for fresh installs as sliders get worked on  
-• Changed brightness place in dynamic toolbar from decimal to %  
-• Chain PnP install link to GitHub version.json  
-• Numpad values are now entered as 0-100, not 0-1, to match percentages.  
+• Made Brightness bug a known issue  
+• Added the Quick Menu Modders’ Guide  
+• Made sliders default again for fresh versions  
+• Dynamic Toolbar day/night sensor has been updated  
 
-❓𝗪𝗵𝘆?   
-⮑ Brightness slider currently contains multiple bugs I am working on.  
+❓𝗪𝗵𝘆?  
+⮑ Brightness slider bug is unsolvable, but now understood and documented with real error handling.  
 
 𝗦𝘁𝗮𝘁𝘀:  
-69KB  
-478 Actions  
+72KB  
