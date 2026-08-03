@@ -1,13 +1,13 @@
-📋 𝗖𝗵𝗮𝗻𝗴𝗲𝗹𝗼𝗴 v4.0.1  
+📋 𝗖𝗵𝗮𝗻𝗴𝗲𝗹𝗼𝗴 v4.0.2  
 
 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 𝗖𝗵𝗮𝗻𝗴𝗲𝘀  
-• Changed Focus Moon symbol to ☾ instead of 🌙  
-• Fixed dynamic charging symbol in Landscape Menu  
-• Added Brightness to Landscape Menu  
+• Bugs in Updater have been patched  
+• Removed “Welcome” popup from setup  
+• UI in areas has been modernised and fixed  
 
 ❓ 𝗪𝗵𝘆?  
-⮑ You need brightness for gaming, also, the new focus icon is more accurate  
+⮑ Extra popups and old UI is bad  
 
 𝗦𝘁𝗮𝘁𝘀  
-• 709 Actions  
-• 89KB  
+• 708 Actions  
+• 88KB  
