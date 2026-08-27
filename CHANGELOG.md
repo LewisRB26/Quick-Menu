@@ -1,13 +1,12 @@
-📋 𝗖𝗵𝗮𝗻𝗴𝗲𝗹𝗼𝗴 v4.1.0  
+📋 𝗖𝗵𝗮𝗻𝗴𝗲𝗹𝗼𝗴 v4.2.0  
 
 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 𝗖𝗵𝗮𝗻𝗴𝗲𝘀  
-• Added migration menu from old QM to new QM  
-• Added option to run a selected shortcut from 5th Slot  
-• Spacing and UI in areas has been fixed  
+• Improved literally everything to do with 5th slot; error handling, PnP explanation, allat good stuff, just keeping it chill man.  
+• Some minor debloating  
 
 ❓ 𝗪𝗵𝘆?  
-⮑ It would be nice to run a shortcut from the 5th slot that isn't Plug n Play, if you have 1 shortcut you use a lot.  
+⮑ All of Quick Menu should feel as polished as possible; this includes the 5th slot  
 
 𝗦𝘁𝗮𝘁𝘀  
-• 743 Actions  
+• 742 Actions  
 • 91KB
