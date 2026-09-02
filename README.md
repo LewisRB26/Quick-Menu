@@ -96,7 +96,5 @@ If you want Quick Menu on **any** iPhone capable of Back Tap (Or _really_ hate p
 • iPhone 8 (Back Tap)  
 • iOS 14.5+
 
-There is a full README, all versions older than v2.1.0 and Changelogs on GitHub
-
 **GitHub Link:** [https://github.com/LewisRB26/Quick-Menu](https://github.com/LewisRB26/Quick-Menu)
 
