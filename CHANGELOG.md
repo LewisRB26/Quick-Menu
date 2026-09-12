@@ -1,11 +1,10 @@
-📋 𝗖𝗵𝗮𝗻𝗴𝗲𝗹𝗼𝗴 v4.2.0  
+📋 𝗖𝗵𝗮𝗻𝗴𝗲𝗹𝗼𝗴 v4.2.1  
 
 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 𝗖𝗵𝗮𝗻𝗴𝗲𝘀  
-• Improved literally everything to do with 5th slot; error handling, PnP explanation, allat good stuff, just keeping it chill man.  
-• Some minor debloating  
+• Patched factory reset/onboarding bug where 5th slot starts tweaking. 
 
 ❓ 𝗪𝗵𝘆?  
-⮑ All of Quick Menu should feel as polished as possible; this includes the 5th slot  
+⮑ First impressions matter a lot, especially with something as unique as the 5th slot.  
 
 𝗦𝘁𝗮𝘁𝘀  
 • 742 Actions  
